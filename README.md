@@ -1,5 +1,5 @@
 
-config.ini file name
+config.ini
 ```
 [mysql]
 host = localhost
