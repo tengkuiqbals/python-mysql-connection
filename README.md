@@ -1,10 +1,3 @@
-
-ignored files :
-__pycache__/
-.DS_Store
-config.ini
-backup/
-
 config.ini
 ```
 [mysql]
